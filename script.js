@@ -61,12 +61,27 @@
 // var currrentNumber = 0;
 // var stopNumber = 150;
 
-// while (currrentNumber > stopNumber  ){
+// while (currrentNumber < stopNumber  ){
 //     currrentNumber = stopNumber - 1;
 //     console.log(stopNumber)
 // }
 
- for (var i=1; i<=10; i++){
-     console.log(i);
- }
+//  for (var i=1; i<=100; i++){
+//      console.log(i);
+//  }
+
+// var city = prompt("What is the region you want know capital of?");
+// if (country === "USA"){
+//     alert("Washington")
+// }
+// else if (country === "Kyrgyzstan"){
+//     alert("Bishkek");
+// }
+// else if (country ==="Kazakhstan"){
+//     alert("Nur Sultan");
+// }
+// else {
+//     alert("We don't know that country");
+// }
+
 
